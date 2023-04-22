@@ -10,7 +10,6 @@
         </a>
     </div>
 </div>
-<h2 font-weight="bold"> About Me </h2>
 <h3>
     A highly skilled and innovative full stack developer with over 8 years of experience across an array of exciting projects. My level-headed and rational approach to problem-solving, combined with a passion for fresh and innovative ideas, has resulted in impressive website solutions. Possess strong technical competency and industry awareness, ensuring that each project they undertake is completed using the most up-to-date and relevant programming foundations available. Additionally, have an exceptional understanding of the software development life cycle and agile methodologies.
 </h3>
