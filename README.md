@@ -91,13 +91,5 @@
 </div>
 <br>
 <div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denis1218&theme=icegray)](https://git.io/streak-stats)
-
-</div>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=denis1218&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Jason's github stats" />
-</div>
-<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis1218&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
